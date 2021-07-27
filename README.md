@@ -1,6 +1,7 @@
 # BashAndPowerShellScripts
 Shell Style Guide:
 https://google.github.io/styleguide/shellguide.html
+
 PowerShell Style Guide:
 https://poshcode.gitbook.io/powershell-practice-and-style/style-guide/code-layout-and-formatting
 
