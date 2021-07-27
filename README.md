@@ -1,4 +1,4 @@
-# BashBatchScripts
+# BashAndPowerShellScripts
 
 ## SpaceSaver.ps1
 Parameters - “Directory” (default of “C:\Users\UserName”)
