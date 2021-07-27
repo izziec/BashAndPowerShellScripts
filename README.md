@@ -1,7 +1,8 @@
 # BashAndPowerShellScripts
-Google Shell Style Guide:
+Shell Style Guide:
 https://google.github.io/styleguide/shellguide.html
-
+PowerShell Style Guide:
+https://poshcode.gitbook.io/powershell-practice-and-style/style-guide/code-layout-and-formatting
 
 ## SpaceSaver.ps1
 Parameters - “Directory” (default of “C:\Users\UserName”)
